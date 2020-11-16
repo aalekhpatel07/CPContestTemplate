@@ -6,7 +6,6 @@
 ### Some instructions.
 
 #### For writing the solution:
-- (Optional): Source into `venv` so `numpy` and `scipy` are accessible.
 - Copy `template.py` into `/solutions` and rename it.
 - Filename should be one-word.
     1. Example: `ProblemA.py`
