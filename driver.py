@@ -3,7 +3,7 @@ import os
 import sys
 
 
-TOP = os.getcwd()
+TOP = Path(os.getcwd())
 DATA = (TOP / 'data')
 DATA_INPUT = DATA / 'input'
 DATA_OUTPUT = DATA / 'output'
