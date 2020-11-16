@@ -1,4 +1,4 @@
-# IEEExtreme14
+# Contest_Name
 ## A very basic custom test suite for competitive programming.
 
 **TLDR**:  Execute ```python driver.py ProblemA``` to test the solution to `ProblemA` against all the test cases.
